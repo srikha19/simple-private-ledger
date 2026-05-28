@@ -125,13 +125,13 @@ It is designed for educational purposes to understand how blockchain works inter
 ## 📸 Project Screenshots
 
 ### Main Window
-![Main Window](screenshots/home.png)
+![Main Window](home.png)
 
 ### Transaction Entry
-![Transaction](screenshots/transaction.png)
+![Transaction](transaction.png)
 
 ### Mining a Block
-![Mining](screenshots/mined_block.png)
+![Mining](mined_block.png)
 
 ### Blockchain Validation
-![Validation](screenshots/validation.png)
+![Validation](validation.png)
