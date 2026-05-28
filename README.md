@@ -122,4 +122,16 @@ Built for learning and internship demonstration purposes.
 ## ⭐ Note
 This is a simulated blockchain system, not a real cryptocurrency network.  
 It is designed for educational purposes to understand how blockchain works internally.
+## 📸 Project Screenshots
 
+### Main Window
+![Main Window](screenshots/home.png)
+
+### Transaction Entry
+![Transaction](screenshots/transaction.png)
+
+### Mining a Block
+![Mining](screenshots/mined_block.png)
+
+### Blockchain Validation
+![Validation](screenshots/validation.png)
